@@ -1,1 +1,2 @@
-# 2_Academic_AlgorithmAnalysis
+- Researched on Marching Cubes algorithm and developed a programming tool for algorithm visualization.
+- Wrote a 16-page project report illustrating the algorithm and program implementation, presented in class.
